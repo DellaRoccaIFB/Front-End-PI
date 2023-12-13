@@ -1,8 +1,33 @@
-# React + Vite
+# Front-End Programação para Internet
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Pré-requisitos
+Antes de começar, certifique-se de ter o seguinte instalado em seu sistema:
 
-Currently, two official plugins are available:
+- Node.js (v14 ou superior)
+- npm (geralmente instalado junto com o Node.js)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Configuração do Ambiente
+
+1. Clone este repositório: <br>
+````
+git clone https://github.com/DellaRoccaIFB/Front-End-PI.git
+````
+2. Navegue até o diretório do projeto:
+   
+````
+cd Front-End-PI
+````
+
+3. Instale as dependências:
+   
+````
+npm install
+````
+   
+### Executando o Aplicativo
+
+Após a configuração do ambiente, você pode iniciar o aplicativo usando o seguinte comando:
+
+````
+npm start
+````
